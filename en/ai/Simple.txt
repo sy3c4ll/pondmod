@@ -1,0 +1,6 @@
+var i = 0;
+while(true) {
+  if(scan(i)<=70)
+    cannon(i, scan(i));
+  i++;
+}
