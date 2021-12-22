@@ -5,12 +5,15 @@ A slightly modified version of Blockly Games: Pond, so that your ducks can compe
 ## Running
 
 Simply double-click index.html! You will be automatically redirected to Pond.
+
 Upon running, you'll be met with six prompts, each asking you for the name and code for three AIs. Have them prepared! If you don't have any code yourself, I've put the code for Counter, Rook and Sniper from the original game in `en/ai/` so that you can copy and paste.
+
 This project is also being hosted on https://sy3c4ll.github.io/pondmod, courtesy of Github Pages!
 
 ## Tutorial
 
 Just walk through the [Pond Tutor course](https://blockly.games/pond-tutor) of the original Blockly games, they'll explain it better than I ever can.
+
 If you _have_ done that, but you still want a bit of tuning on all of the functions available, click on the `Documentation` button in-game.
 
 ## Credits
